@@ -16,6 +16,9 @@
 
 ---
 
+CF部署教程 https://mp.weixin.qq.com/s/C62jsU-9Y9tjwG1FrtzTnw?from=groupmessage&isappinstalled=0&scene=1&clicktime=1780425744&enterid=1780425744
+Docker部署教程 https://mp.weixin.qq.com/s/C62jsU-9Y9tjwG1FrtzTnw?from=groupmessage&isappinstalled=0&scene=1&clicktime=1780425744&enterid=1780425744
+
 ## 部署方式一：Docker（推荐）
 
 最简单的部署方式，适合有服务器/NAS 的用户。
